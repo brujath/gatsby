@@ -3,7 +3,7 @@ import Header from 'components/Header';
 import Footer from 'components/Footer';
 import Navbar from 'components/Navbar';
 
-import './layout.scss';
+import './Layout.scss';
 
 type Props = {
   children: ReactNode;
